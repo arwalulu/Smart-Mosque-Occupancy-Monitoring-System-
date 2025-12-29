@@ -1,5 +1,5 @@
 # 🕌 Smart Mosque Occupancy Monitoring System (Arduino + IR Sensors)
-![Smart Mosque](mos.png)
+![Smart Mosque](mosq.png)
 
 A **real-time occupancy monitoring system** that counts how many people are inside a mosque (or any venue) using **two IR sensors**:  
 - **Entry sensor** → increments count  
